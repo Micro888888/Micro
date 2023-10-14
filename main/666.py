@@ -1,0 +1,2 @@
+i = "Micro"
+print(i)
