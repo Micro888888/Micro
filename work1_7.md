@@ -34,8 +34,4 @@ class Product:
 product666 = Product(666, "Iphone 15 Pro Max (1TB)", 13999, 100, 100)
 product666.display()
 print("已售出商品价值:", product666.income(10))
-product666.display()
-product666.setdata("Iphone 16 Pro Max (2TB)", 18888, 50, 50)
-product666.display()
-print("已售出商品价值:", product666.income(20))
-product666.display()
+
